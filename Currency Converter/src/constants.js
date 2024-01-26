@@ -1,0 +1,1 @@
+export const BG_IMG = "https://www.livemint.com/lm-img/img/2023/07/16/1600x900/Digital_Currencies_1660189785051_1689495993330.JPG";
