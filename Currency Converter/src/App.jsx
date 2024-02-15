@@ -30,7 +30,7 @@ function App() {
           backgroundImage: `url('https://www.livemint.com/lm-img/img/2023/07/16/1600x900/Digital_Currencies_1660189785051_1689495993330.JPG')`,
         }}
       >
-        <div className="w-full">
+        <div className="w-full px-2 md:px-0">
           <div className="w-full max-w-md mx-auto border border-gray-60 rounded-lg p-5 backdrop-blur-sm bg-white/30">
             <form
               onSubmit={(e) => {
